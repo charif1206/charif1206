@@ -28,7 +28,7 @@
 
 - 👨‍💻 Portfolio: [My Website](https://v0-portfolio-website-build-prs8zi5w9.vercel.app/)
 - 📝 Articles: [LinkedIn Posts](https://www.linkedin.com/in/charif-abed-4ba2a0281/recent-activity/all/)
-- 📄 Resume: [View CV](https://docs.google.com/document/d/1zZfTgpj7Fdawquw14qIdhGHm8ZDWlo0y0QxXzu3tkbM/edit?usp=sharing)
+- 📄 Resume: [View CV]([https://docs.google.com/document/d/1zZfTgpj7Fdawquw14qIdhGHm8ZDWlo0y0QxXzu3tkbM/edit?usp=sharing](https://drive.google.com/file/d/1AyXEAdIuWKTR33V3Cp7DMYvVPqAuBqge/view?usp=drive_link))
 - 📫 Email: **abedcharif027@gmail.com**
 
 ---
