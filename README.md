@@ -26,7 +26,7 @@
 
 ## 🌐 Portfolio & Links
 
-- 👨‍💻 Portfolio: [My Website](https://v0-portfolio-website-build-prs8zi5w9.vercel.app/)
+- 👨‍💻 Portfolio: [My Website]([https://v0-portfolio-website-build-prs8zi5w9.vercel.app/](https://portfolio-ten-jet-87.vercel.app/))
 - 📝 Articles: [LinkedIn Posts](https://www.linkedin.com/in/charif-abed-4ba2a0281/recent-activity/all/)
 - 📄 Resume: [View CV](https://drive.google.com/file/d/1AyXEAdIuWKTR33V3Cp7DMYvVPqAuBqge/view)
 - 📫 Email: **abedcharif027@gmail.com**
